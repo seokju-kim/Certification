@@ -1,0 +1,14 @@
+Relevant Certifications in Container Technology
+CKA (Certified Kubernetes Administrator) -> https://www.cncf.io/certification/cka/
+CKA Study: https://training.linuxfoundation.org/training/kubernetes-fundamentals/
+Books and e-books
+Kubernetes on Azure Solution Booklet -> https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-on-azure-solution-booklet/AKS%20solution%20booklet_Oct%202021.pdf
+Get up and running with Kubernetes -> https://info.microsoft.com/ww-landing-kubernetes-bundle.html
+Kubernetes Up & Running -> https://hello-tanzu.vmware.com/kubernetes-up-and-running-3/
+The Kubernetes Book -> https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ/ref=as_li_ss_tl?dchild=1&keywords=DevOps&qid=1585189157&s=books&sr=1-6&linkCode=sl1&tag=secincloud-20&linkId=e0a99f30a9a37016f5d554ff4b5efedb
+Workshops and Labs: 
+
+Amazon EKS Workshop — https://www.eksworkshop.com/docs/introduction
+Amazon ECS Workshop — https://ecsworkshop.com/
+Kubernetes the hard way — https://github.com/kelseyhightower/kubernetes-the-hard-way
+Learn Kubernetes by Doing -> https://www.pluralsight.com/cloud-guru/courses/learn-kubernetes-by-doing?utm_source=google&utm_medium=paid-search&utm_campaign=cloud-transformation&utm_term=ssi-global-acg-core-dsa&utm_content=free-trial&gclid=CjwKCAjwjOunBhB4EiwA94JWsFlqam2pSgfnYD9_qL9EdGBltUd8U83RQOEBDdC7WdJC2icpnZcToBoCpb8QAvD_BwE
